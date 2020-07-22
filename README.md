@@ -23,7 +23,7 @@ I’m currently learning about data structures and algorithms
 [![Js Strudy notes](https://github.com/NatanDuarte/js-study-notes)](https://github.com/NatanDuarte/js-study-notes)
 
 ### 🔭 2020 Goal
-learning data structures and algorithms recently becauese I am preparing for postgraduate entry.
+Learn OOP foundaments
 
 ### ☕ Get In Touch
 - [Twitter](https://twitter.com/NatanDuarteDev)
