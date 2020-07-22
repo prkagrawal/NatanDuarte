@@ -20,7 +20,7 @@ I’m currently learning about data structures and algorithms
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 
 ### 👀 Active Repo
-[![ReadMe Card](https://github.com/NatanDuarte/js-study-notes#my-javascript-study-notes)](https://github.com/NatanDuarte/js-study-notes)
+[![Js Strudy notes](https://github.com/NatanDuarte/js-study-notes)](https://github.com/NatanDuarte/js-study-notes)
 
 ### 🔭 2020 Goal
 learning data structures and algorithms recently becauese I am preparing for postgraduate entry.
